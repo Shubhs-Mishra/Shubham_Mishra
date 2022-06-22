@@ -2,7 +2,7 @@
 - 👀 I’m interested in Competitive coding, web devolopment etc.
 - 🌱 I’m currently learning B.tech (IT)
 - 💞️ I’m looking to collaborate on web devolopment projects
-- 📫 How to reach me shubham.it.19060@recb.ac.in
+- 📫 How to reach me thekrishna1995@gmail.com
 
 <!---
 Shubhs-Mishra/Shubhs-Mishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
